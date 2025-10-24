@@ -27,6 +27,12 @@
 <!--            <artifactId>reactor-core</artifactId>-->
 <!--            <version>3.6.6</version>-->
 <!--        </dependency>-->
+
+        <dependency>
+            <groupId>io.projectreactor</groupId>
+            <artifactId>reactor-core</artifactId>
+            <version>3.6.6</version>
+        </dependency>
     </dependencies>
 
 </project>
